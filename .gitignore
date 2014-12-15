@@ -1,0 +1,13 @@
+﻿
+*.pyc
+
+*.suo
+*.user
+bin
+obj
+
+*.psess
+*.vsp
+.idea
+
+*.sln.ide
